@@ -1,4 +1,4 @@
-Welcome to my **Applied Machine Learning Bachelor Practical Course** repository! 🎓🤖 This repository documents my journey through a **10-week** hands-on course, where I implemented fundamental machine learning concepts **from scratch** and compared them with established **off-the-shelf** libraries.  
+Welcome to my **Applied Machine Learning Bachelor Practical Course** repository! 🎓🤖 This repository documents my journey through a **10-week** hands-on course, where I implemented fundamental machine learning concepts **from scratch**.  
 
 ## 📌 About the Course  
 - **Duration**: 10 weeks  
